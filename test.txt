@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 line one 
 
 line two 
 
 line three
-
-line four
-=======
-line one 
->>>>>>> parent of 26dc545 (add line two)
